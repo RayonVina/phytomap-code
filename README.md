@@ -131,13 +131,15 @@ The collection has been reviewed and edited by its author. That review is not a 
 
 ## Licence and citation
 
-The code collection is distributed under the MIT License; see `LICENSE`.
-Existing third-party notices and permissions must be preserved where applicable. This licence does not apply to the separately distributed database or excluded source data.
+The code collection is distributed under the MIT License; see `LICENSE`. Existing third-party notices and permissions must be preserved where
+applicable. This licence does not apply to the separately distributed database or excluded source data.
 
-Code repository: https://github.com/RayonVina/phytomap-code
+The latest archived release is available on Zenodo:
+https://doi.org/10.5281/zenodo.23219719
 
-Code release: 1.0.0 (Git tag: v1.0.0).
+This concept DOI represents all archived versions and always resolves to the latest archived release. Citation metadata are provided in `CITATION.cff`.
 
-Please cite the version-specific Zenodo record associated with this release. Its citation metadata and DOI are available through the GitHub–Zenodo integration.
+The development repository is available at:
+https://github.com/RayonVina/phytomap-code
 
-The dataset is distributed separately and should be cited independently.
+The Phyto-MAP dataset is distributed separately and should be cited independently.
