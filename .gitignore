@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+*.rds
+*.RData
+/raw/
+/data/
+/database/
+/outputs/
