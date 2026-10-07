@@ -1,5 +1,11 @@
 # Phyto-MAP data-processing scripts
 
+<!-- badges: start -->
+[![Version: 1.0.0](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/RayonVina/phytomap-code/releases/tag/v1.0.0)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23219719.svg)](https://doi.org/10.5281/zenodo.23219719)
+[![Last commit](https://img.shields.io/github/last-commit/RayonVina/phytomap-code?style=flat-square&color=b4befe)](https://github.com/RayonVina/phytomap-code/commits/main/)
+<!-- badges: end -->
+
 ## Purpose and scope
 
 This collection contains edited and standardised versions of scripts used during the development of Phyto-MAP, a curated database of marine phytoplankton abundance records. It supports inspection of the retained programmatic components of source-data processing, taxonomic curation and relational database construction.
