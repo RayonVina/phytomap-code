@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: >-
+  If you refer to this script collection, please cite it using the
+  Zenodo concept DOI below. This identifier represents all archived
+  versions and resolves to the latest archived release.
+type: software
+title: "Phyto-MAP data-processing scripts"
+authors:
+  - family-names: "Rayón Viña"
+    given-names: "Fernando"
+    orcid: "https://orcid.org/0000-0002-1622-2180"
+doi: "10.5281/zenodo.23219719"
+repository-code: "https://github.com/RayonVina/phytomap-code"
+url: "https://doi.org/10.5281/zenodo.23219719"
+license: MIT
+abstract: >-
+  Edited and standardised scripts documenting source-specific data
+  processing, taxonomic curation and relational database construction
+  during the development of Phyto-MAP. The collection documents the
+  retained programmatic components, not a complete executable history
+  of every change made to the data.
+keywords:
+  - Phyto-MAP
+  - marine phytoplankton
+  - abundance
+  - data curation
+  - taxonomy
+  - R
+  - SQLite
